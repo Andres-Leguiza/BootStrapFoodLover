@@ -30,15 +30,15 @@ header {
 
 .hero__Titulos {
 	font-weight: 600;
-	font-size: 1.7rem;
+	font-size: 1.5rem;
 	color: #cf712e;
 	border-radius: 10px 10px 0 0;
 	background-color: rgba(0, 0, 0, 0.7);
 }
 
 .videoSize {
-	width: 500px;
-	height: 400px;
+	width: 350px;
+	height: 300px;
 }
 
 /* Contenido Principal Destacados */
@@ -51,7 +51,7 @@ header {
 }
 
 .card__destacados iframe {
-	width: 350px;
+	width: 335px;
 	height: 300px;
 }
 
