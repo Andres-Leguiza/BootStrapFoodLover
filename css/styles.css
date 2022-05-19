@@ -51,7 +51,7 @@ header {
 }
 
 .card__destacados iframe {
-	width: 335px;
+	max-width: 350px;
 	height: 300px;
 }
 
